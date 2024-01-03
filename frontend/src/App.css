@@ -1,0 +1,12 @@
+.ant-tabs-nav {
+  padding-top: 80px;
+  width: 270px;
+  background-color: #2b082b;
+  .ant-tabs-tab-btn {
+    color: white !important;
+  }
+  height: 100vh;
+}
+.ant-tabs-content-holder{
+  overflow-x: auto;
+}
